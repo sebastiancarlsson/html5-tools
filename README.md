@@ -2,13 +2,13 @@
 A collection of HTML5 tools & libraries that I use on a regular basis. Descriptions are mostly taken directly from each project's website/docs.
 
 - [Immutable.js](https://facebook.github.io/immutable-js/) *Immutable collections for JavaScript*
-- [Moment.js](http://momentjs.com/) *Parse, validate, manipulate, and display dates in JavaScript*
 - [Redux](http://redux.js.org/) *Redux is a predictable state container for JavaScript apps*
 
 ## Frameworks
 
 - [React](https://facebook.github.io/react/) *A JavaScript library for building user interfaces*
 - [React-Bootstrap](https://react-bootstrap.github.io/) *The most popular front-end framework, rebuilt for React*
+- [Pure render decorator](https://github.com/felixgirault/pure-render-decorator) *An ES7 decorator to make React components "pure"*
 
 ## Parsers/Transpilers
 
@@ -20,6 +20,13 @@ A collection of HTML5 tools & libraries that I use on a regular basis. Descripti
 - [Mocha](https://mochajs.org/) *The fun, simple, flexible JavaScript test framework*
 - [Chai](http://chaijs.com/) *Chai is a BDD / TDD assertion library for node and the browser (...)*
 - [Chai Immutable](https://github.com/astorije/chai-immutable) *Chai assertions for Facebook's Immutable library for JavaScript collections*
+
+## Utilities
+- [Moment.js](http://momentjs.com/) *Parse, validate, manipulate, and display dates in JavaScript*
+- [Classnames](https://github.com/JedWatson/classnames) *A simple javascript utility for conditionally joining classNames together*
+
+## Polyfills
+- [Fetch](https://github.com/github/fetch) *A window.fetch JavaScript polyfill*
 
 ## Build tools
 
