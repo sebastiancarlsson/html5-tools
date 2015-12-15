@@ -3,9 +3,6 @@ A collection of HTML5 tools & libraries that I use on a regular basis. Descripti
 
 - [Immutable.js](https://facebook.github.io/immutable-js/) *Immutable collections for JavaScript*
 - [Redux](http://redux.js.org/) *Redux is a predictable state container for JavaScript apps*
-
-## Frameworks
-
 - [React](https://facebook.github.io/react/) *A JavaScript library for building user interfaces*
 - [React-Bootstrap](https://react-bootstrap.github.io/) *The most popular front-end framework, rebuilt for React*
 - [Pure render decorator](https://github.com/felixgirault/pure-render-decorator) *An ES7 decorator to make React components "pure"*
