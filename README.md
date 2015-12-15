@@ -1,5 +1,5 @@
 # HTML5 tools & libraries
-A collection of HTML5 tools & libraries that I use on a regular basis.
+A collection of HTML5 tools & libraries that I use on a regular basis. Descriptions are mostly taken directly from each project's website/docs.
 
 - [Immutable.js](https://facebook.github.io/immutable-js/) *Immutable collections for JavaScript*
 - [Moment.js](http://momentjs.com/) *Parse, validate, manipulate, and display dates in JavaScript*
@@ -24,3 +24,5 @@ A collection of HTML5 tools & libraries that I use on a regular basis.
 ## Build tools
 
 - [Webpack](https://github.com/webpack/webpack) *A bundler for javascript and friends*
+- [Webpack Dev Server](https://github.com/webpack/webpack-dev-server) *Live reloading server for webpack*
+- [Gulp](http://gulpjs.com/) *The streaming build system*
