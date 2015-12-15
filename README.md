@@ -1,5 +1,5 @@
-# Favourite JS Libraries
-A collection of JS libraries I use
+# HTML5 tools & libraries
+A collection of HTML5 tools & libraries that I use on a regular basis.
 
 - [Immutable.js](https://facebook.github.io/immutable-js/) *Immutable collections for JavaScript*
 - [Moment.js](http://momentjs.com/) *Parse, validate, manipulate, and display dates in JavaScript*
