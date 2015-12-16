@@ -16,6 +16,7 @@ Descriptions are mostly taken directly from each project's website/docs.
 - [Classnames](https://github.com/JedWatson/classnames) *A simple javascript utility for conditionally joining classNames together*
 - [Pure render decorator](https://github.com/felixgirault/pure-render-decorator) *An ES7 decorator to make React components "pure"*
 - [Modernizr](https://modernizr.com/) *a JavaScript library that detects HTML5 and CSS3 features*
+- [jQuery](https://jquery.com/) *The Write Less, Do More, JavaScript Library*
 
 ## Parsers/Transpilers
 - [SASS](http://sass-lang.com/) *CSS with superpowers*
