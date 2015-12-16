@@ -1,5 +1,5 @@
 # HTML5 tools & libraries
-A collection of tools & libraries for the modern web.
+A collection of tools & libraries for the modern web that I use on a regular basis.
 
 Descriptions are mostly taken directly from each project's website/docs.
 
