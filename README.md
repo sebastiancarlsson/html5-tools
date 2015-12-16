@@ -9,6 +9,12 @@ Descriptions are mostly taken directly from each project's website/docs.
 - [Backbone.js](http://backbonejs.org/) *Give your JS App some Backbone with Models, Views, Collections, and Events*
 - [Angular.js](https://angularjs.org/) *HTML enhanced for web apps*
 
+## Graphics & Animation
+- [GSAP](http://greensock.com/gsap) *The new standard for HTML5 animation*
+- [Pixi.js](http://www.pixijs.com/) *2D webGL renderer with canvas fallback*
+- [three.js](http://threejs.org/) *Javascript 3D library*
+- [D3.js](http://d3js.org/) *Data-Driven Documents*
+
 ## Utilities
 - [Redux](http://redux.js.org/) *Redux is a predictable state container for JavaScript apps*
 - [Immutable.js](https://facebook.github.io/immutable-js/) *Immutable collections for JavaScript*
