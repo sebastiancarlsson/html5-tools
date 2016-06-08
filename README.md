@@ -32,6 +32,7 @@ Descriptions are mostly taken directly from each project's website/docs.
 - [Mocha](https://mochajs.org/) *The fun, simple, flexible JavaScript test framework*
 - [Chai](http://chaijs.com/) *Chai is a BDD / TDD assertion library for node and the browser (...)*
 - [Chai Immutable](https://github.com/astorije/chai-immutable) *Chai assertions for Facebook's Immutable library for JavaScript collections*
+- [Enzyme](http://airbnb.io/enzyme/) *Enzyme is a JavaScript Testing utility for React*
 
 ## Polyfills
 - [Fetch](https://github.com/github/fetch) *A window.fetch JavaScript polyfill*
