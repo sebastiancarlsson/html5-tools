@@ -24,6 +24,7 @@ Descriptions are mostly taken directly from each project's website/docs.
 - [Modernizr](https://modernizr.com/) *a JavaScript library that detects HTML5 and CSS3 features*
 - [react-helmet](https://github.com/nfl/react-helmet) *A document head manager for React*
 - [redial](https://github.com/markdalgleish/redial) *Universal data fetching and route lifecycle management for React etc.*
+- [superagent](http://visionmedia.github.io/superagent/) *elegant API for AJAX in Node and browsers* 
 
 ## Content Management
 - [KeystoneJS](http://keystonejs.com/) *Node.js CMS & Web Application Platform*
