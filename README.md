@@ -3,7 +3,7 @@ A collection of tools & libraries for the modern web that I use on a regular bas
 
 Descriptions are mostly taken directly from each project's website/docs.
 
-## Frameworks
+## Front-end frameworks
 - [React](https://facebook.github.io/react/) *A JavaScript library for building user interfaces*
 - [React-Bootstrap](https://react-bootstrap.github.io/) *The most popular front-end framework, rebuilt for React*
 - [Backbone.js](http://backbonejs.org/) *Give your JS App some Backbone with Models, Views, Collections, and Events*
@@ -22,7 +22,12 @@ Descriptions are mostly taken directly from each project's website/docs.
 - [Classnames](https://github.com/JedWatson/classnames) *A simple javascript utility for conditionally joining classNames together*
 - [Pure render decorator](https://github.com/felixgirault/pure-render-decorator) *An ES7 decorator to make React components "pure"*
 - [Modernizr](https://modernizr.com/) *a JavaScript library that detects HTML5 and CSS3 features*
-- [jQuery](https://jquery.com/) *The Write Less, Do More, JavaScript Library*
+- [react-helmet](https://github.com/nfl/react-helmet) *A document head manager for React*
+- [redial](https://github.com/markdalgleish/redial) *Universal data fetching and route lifecycle management for React etc.*
+
+## Content Management
+- [KeystoneJS](http://keystonejs.com/) *Node.js CMS & Web Application Platform*
+- [Wordpress](https://wordpress.org/) *The most popular blogging/CMS on the web*
 
 ## Parsers/Transpilers
 - [SASS](http://sass-lang.com/) *CSS with superpowers*
