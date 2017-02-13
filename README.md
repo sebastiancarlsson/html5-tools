@@ -1,5 +1,5 @@
 # HTML5 tools & libraries
-A collection of tools & libraries for the modern web that I use on a regular basis.
+A collection of favourite tools & libraries for the modern web that I use on a regular basis.
 
 Descriptions are mostly taken directly from each project's website/docs.
 
@@ -43,7 +43,8 @@ Descriptions are mostly taken directly from each project's website/docs.
 ## Polyfills
 - [Fetch](https://github.com/github/fetch) *A window.fetch JavaScript polyfill*
 
-## Build tools
+## Dev tools
 - [Webpack](https://github.com/webpack/webpack) *A bundler for javascript and friends*
 - [Webpack Dev Server](https://github.com/webpack/webpack-dev-server) *Live reloading server for webpack*
 - [Gulp](http://gulpjs.com/) *The streaming build system*
+- [Browsersync](https://browsersync.io/) *Time-saving synchronised browser testing*
